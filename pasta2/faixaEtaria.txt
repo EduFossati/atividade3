@@ -1,0 +1,2 @@
+Algoritmo "FaixaEtaria"// Faça um programa que receba a idade de 15 pessoas e mostre: a quantidade de//pessoas em cada faixa etária.
+// Autor(a)    :Andressa// Data atual  : 27/05/2021Var   idade,f1,f2,f3,f4,f5,pessoas: inteiroInicio      enquanto pessoas<15 faca           escreval("Informe uma idade:")           leia(idade)
